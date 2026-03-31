@@ -1,1 +1,1 @@
-# smart-cirty
+# smart-city
